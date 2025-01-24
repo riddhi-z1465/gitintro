@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Python Assignment"
+		},
+		{
+			"path": "../../../Desktop/Netflix-FE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Netflix-FE"
+	}
+}
