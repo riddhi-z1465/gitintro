@@ -1,0 +1,17 @@
+name: Riddhi Hello on Push to Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  echo-hello:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+        
+      - name: Riddhi Hello
+        run: Riddhi "Hello"
